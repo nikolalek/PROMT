@@ -1,7 +1,7 @@
 # PROMT
 PopClip Extension for PROMT Translator
 
-![](http://a3.mzstatic.com/us/r30/Purple3/v4/c1/12/e4/c112e428-94f9-ee77-b066-0805739c8ba9/icon128-2x.png)
+[![](http://a3.mzstatic.com/us/r30/Purple3/v4/c1/12/e4/c112e428-94f9-ee77-b066-0805739c8ba9/icon128-2x.png)](http://www.promt.com/translation_software/mac)
 
 [PROMT Agent](https://itunes.apple.com/us/app/promt-agent/id917131656?mt=12) 
 
