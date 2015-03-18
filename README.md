@@ -9,6 +9,8 @@ PopClip Extension for PROMT Agent and PROMT Translator
 
 For PROMT more information visit our web-site: [http://www.promt.com/translation_software/mac](http://www.promt.com/translation_software/mac).
 
+![](./img/clip.gif)
+
 ![](./img/img_01.png)
 
 ![](./img/img_02.png)
