@@ -39,8 +39,8 @@
 	<key>Credits</key>
 	<array>
 		<dict>
-			<key>Email</key>
-			<string>nikolalek@me.com</string>
+			<key>Link</key>
+			<string>https://github.com/nikolalek</string>
 			<key>Name</key>
 			<string>Aleksey Nikolaev</string>
 		</dict>
@@ -53,7 +53,7 @@
 		<string>Перевести с помощью PROMT Агент</string>
 	</dict>
 	<key>Extension Identifier</key>
-	<string>com.promtagent</string>
+	<string>com.nikolalek.popclip.extension.promtagent</string>
 	<key>Extension Name</key>
 	<dict>
 		<key>en</key>
