@@ -8,7 +8,7 @@
 			<key>Image File</key>
 			<string>icon.png</string>
 			<key>Service Name</key>
-			<string>PROMT Translator</string>
+			<string>PROMT Offline Translator</string>
 			<key>Title</key>
 			<dict>
 				<key>en</key>
